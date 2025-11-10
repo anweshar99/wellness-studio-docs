@@ -24,6 +24,12 @@
 - Increased task completion success (first-try) by **30%**, based on usability review feedback.
 - Resolved **3 documentation issues** via GitHub Issues feedback loop.
 
+## Tools & Workflow Demonstrated
+- **Version control:** Git + GitHub Pages for publishing.
+- **Markup language:** Markdown for structured content.
+- **Ticketing simulation:** Jira-style review process (see docs/review-process.md).
+- **Documentation style:** SaaS-focused, persona-based.
+- **Collaboration:** GitHub Issues for peer feedback.
 
 ## Author
 Anwesha Roy — demo project for technical-writing portfolio.
