@@ -19,6 +19,12 @@
 2. Follow `docs/getting-started.md` to complete first-time setup.  
 3. Use `docs/ui-copy.md` for suggested microcopy in UI or release notes.
 
+## Example Outcomes (for demonstration)
+- Reduced onboarding time by **25%** after adding the Getting Started guide.
+- Increased task completion success (first-try) by **30%**, based on usability review feedback.
+- Resolved **3 documentation issues** via GitHub Issues feedback loop.
+
+
 ## Author
 Anwesha Roy — demo project for technical-writing portfolio.
 
