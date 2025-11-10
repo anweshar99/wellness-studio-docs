@@ -73,6 +73,14 @@ This style guide defines the writing principles, tone, and terminology conventio
 
 ---
 
+## 8. Localization Guidelines
+- Avoid hardcoded examples with culturally specific names or formats.
+- Use neutral placeholders: `{{customer_name}}`, `{{booking_time}}`.
+- Keep UI copy concise for translation ease.
+- Maintain a terminology list shared with localization teams.
+
+---
+
 ### 🪄 Tip for Writers
 When in doubt, write as if explaining the product to a new spa manager seeing the dashboard for the first time.
 
