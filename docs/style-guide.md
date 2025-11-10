@@ -63,6 +63,16 @@ This style guide defines the writing principles, tone, and terminology conventio
 
 ---
 
+## 7. Voice & Tone Examples (Before / After)
+
+| Scenario | Before | After |
+|-----------|---------|--------|
+| Error Message | "An error occurred." | "Something went wrong — please try again in a few seconds." |
+| Success Message | "Operation successful." | "Your booking was confirmed successfully!" |
+| Tooltip | "Add buffer time." | "Add time between appointments for cleanup and prep." |
+
+---
+
 ### 🪄 Tip for Writers
 When in doubt, write as if explaining the product to a new spa manager seeing the dashboard for the first time.
 
