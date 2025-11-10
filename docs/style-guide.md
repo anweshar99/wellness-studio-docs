@@ -33,7 +33,7 @@ This style guide defines the writing principles, tone, and terminology conventio
 | Booking | Appointment | “Booking” matches product UI |
 | Staff | Employee | Consistent with internal feature labels |
 | Service | Treatment | More generic and scalable |
-| Dashboard | Admin panel | Matches SaaS terminology |
+| Dashboard | Admin panel | Matches generic SaaS terminology |
 
 ---
 
